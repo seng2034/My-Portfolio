@@ -1,0 +1,158 @@
+@charset "utf-8";
+/* CSS Document */
+.box1{
+	wdith: 300px;
+	height: 150px;
+	border: 2px outset blue;
+	background-color: red;
+	display: inline-block;
+	
+	
+}
+.box2{
+	wdith: 500px;
+	height: 150px;
+	border: 2px outset blue;
+	background-image: url("bg-img.jpg");
+	background-size: cover;
+	display: inline-block;
+	
+	
+}
+.box3{
+	wdith: 300px;
+	height: 150px;
+	border: 2px outset blue;
+	background: linear-gradient(70deg,red, blue);
+	display: inline-block;
+	
+}
+.t-f{
+	text-align: justify;
+	text-indent: 20px;
+	text-transform: capitalize;
+	text-decoration: underline red wavy;
+	line-height: 30px;
+	text-shadow: 1px 1px 2px blue;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 30px;
+}
+a{
+	text-decoration: none;
+}
+
+.css{
+	width: 200px;
+	height: 200px;
+	border: 5px outset black;
+	margin: 10px 200px 20px 50px;
+	background: linear-gradient(100deg, blue, yellow,red);
+}
+
+.css-padding{
+	width: 200px;
+	height: 120px;
+	background: linear-gradient(100deg, blue, yellow,red);
+	padding: 50px 30px 10px 50px;
+}
+
+.ext-box{
+	width: 250px;
+	height: 300px;
+	background-color: orangered;
+	margin: auto;
+}
+.inter-box{
+	width: 150px;
+	height: 150px;
+	background-image: url("store-logo.PNG");
+	background-size: cover;
+	border-radius: 50%;
+	margin:50px auto;
+	
+	
+}
+
+
+.p-fix{
+	width: 100%;
+	height: 100px;
+	background: linear-gradient(red,blue,black);
+	position: fixed;
+	bottom: 10px;
+}
+.p-absolute{
+	width: 150px;
+	height: 150px;
+	background-color: pink;
+	position: absolute;
+	right: 10px;
+	bottom: 200px;
+	
+}
+
+.p-relative{
+	width: 500px;
+	height: 500px;
+	margin: auto;
+	background-color: gray;
+	position: relative;
+}
+
+.p1-absolute{
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	position: absolute;
+	right: 150px
+}
+.f-box1{
+	width: 300px;
+	height: 300px;
+	background-color: red;
+	margin: 5px;
+	float: right;
+}
+.f-box2{
+	width: 300px;
+	height: 300px;
+	background-color: red;
+	margin: 5px;
+	float: right;
+}
+
+.f-box3{
+	width: 300px;
+	height: 300px;
+	background-color: red;
+	margin: 5px;
+	float: left;
+}
+.div{
+	
+}
+
+.text1{
+	color: red;
+}
+.text2{
+	color: blue;
+}
+.btn-test{
+	width: auto;
+	height: 100px;
+	background-color: yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
